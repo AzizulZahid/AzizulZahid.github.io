@@ -11,13 +11,7 @@ profile:
   more_info: >
     <p><a href="mailto:azahid@vols.utk.edu">📧 azahid@vols.utk.edu</a></p>
     <p><a href="https://scholar.google.com/citations?user=nTY1Y-AAAAAJ&hl=en">📚 Google Scholar</a></p>
-    <p>
-        <a href="https://www.linkedin.com/in/azizul-zahid-1b980b202" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20">
-          LinkedIn
-        </a>
-    </p>
-
+    <p><a href="https://www.linkedin.com/in/azizul-zahid-1b980b202">🅻 LinkedIn</a></p>
     <p><a href="/AzizulZahid.github.io/assets/pdf/example_pdf.pdf">📄 Curriculum Vitae</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -28,10 +22,10 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+# latest_posts:
+#   enabled: true
+#   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+#   limit: 3 # leave blank to include all the blog posts
 ---
 
 My reserach area lies in Human-AI Interaction, focusing on Intelligent Robot.
