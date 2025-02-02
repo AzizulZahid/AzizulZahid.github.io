@@ -45,8 +45,8 @@ ninja.data = [{
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
         
       },
-    },{id: "news-our-first-paper-on-neurocamtag-got-published-in-iwmut-24-sparkles-smile",
-          title: 'Our first paper on NeurocamTag got published in IWMUT’24. :sparkles: :smile:',
+    },{id: "news-our-first-paper-on-neurocamtag-got-published-in-iwmut-24-sparkles",
+          title: 'Our first paper on NeurocamTag got published in IWMUT’24. :sparkles:',
           description: "",
           section: "News",},{id: "news-passed-the-qualifying-exam",
           title: 'Passed the Qualifying exam.',
