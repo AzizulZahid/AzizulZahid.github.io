@@ -1,11 +1,12 @@
 ---
 layout: cv
-permalink: /cv/
+newtab: true
+permalink: /assets/pdf/CV_AzizulZahid.pdf
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: CV_AzizulZahid.pdf # you can also use external links here
-description:
-toc:
-  sidebar: left
+# cv_pdf: CV_AzizulZahid.pdf # you can also use external links here
+# description:
+# toc:
+#   sidebar: left
 ---
