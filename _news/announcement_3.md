@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our first paper on NeurocamTag got published in IWMUT'24. :sparkles: 
+Our first paper on NeurocamTag got published in IWMUT'24. :sparkles:
