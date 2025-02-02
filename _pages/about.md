@@ -9,7 +9,7 @@ profile:
   image: profileazizul.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><a href="mailto:azahid@vols.utk.edu">📧 azahid@vols.utk.edu</a></p>
+    <p><i class="fas fa-envelope"></i> <a href="mailto:azahid@vols.utk.edu"> azahid@vols.utk.edu</a></p>
     <p><a href="https://scholar.google.com/citations?user=nTY1Y-AAAAAJ&hl=en">📚 Google Scholar</a></p>
     <p><a href="https://www.linkedin.com/in/azizul-zahid-1b980b202">🅻 LinkedIn</a></p>
     <p><a href="/assets/pdf/CV_AzizulZahid.pdf">📄 Curriculum Vitae</a></p>
