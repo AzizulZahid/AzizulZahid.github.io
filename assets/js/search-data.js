@@ -11,17 +11,10 @@ ninja.data = [{
     },
   },{id: "nav-publications",
           title: "publications",
-          description: "Updated publications can be found in [google scholar](https://scholar.google.com/citations?user=nTY1Y-AAAAAJ&amp;hl=en).",
+          description: "Publications by categories in reversed chronological order.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
-          },
-        },{id: "nav-projects",
-          title: "projects",
-          description: "A growing collection of your cool projects.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects/";
           },
         },{id: "nav-cv",
           title: "cv",
