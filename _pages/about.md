@@ -10,9 +10,9 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><i class="fas fa-envelope"></i> <a href="mailto:azahid@vols.utk.edu"> azahid@vols.utk.edu</a></p>
-    <p><a href="https://scholar.google.com/citations?user=nTY1Y-AAAAAJ&hl=en">📚 Google Scholar</a></p>
-    <p><a href="https://www.linkedin.com/in/azizul-zahid-1b980b202">🅻 LinkedIn</a></p>
-    <p><a href="/assets/pdf/CV_AzizulZahid.pdf">📄 Curriculum Vitae</a></p>
+    <p><i class="ai ai-google-scholar"></i><a href="https://scholar.google.com/citations?user=nTY1Y-AAAAAJ&hl=en"> Google Scholar</a></p>
+    <p><i class="fab fa-linkedin"></i><a href="https://www.linkedin.com/in/azizul-zahid-1b980b202"> LinkedIn</a></p>
+    <p><i class="fas fa-file-alt"></i><a href="/assets/pdf/CV_AzizulZahid.pdf"> Curriculum Vitae</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
