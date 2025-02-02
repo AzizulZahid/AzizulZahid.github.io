@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: Updated publications can be found in [google scholar](https://scholar.google.com/citations?user=nTY1Y-AAAAAJ&hl=en).
+description: publications by categories in reversed chronological order. 
 nav: true
 nav_order: 2
 ---
