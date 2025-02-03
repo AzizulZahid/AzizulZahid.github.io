@@ -27,10 +27,13 @@ announcements:
 #   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
 #   limit: 3 # leave blank to include all the blog posts
 ---
-I am researcher a in HCI and AI at EPIC LAB, EECS, UTK.
+I am a researcher in HCI and AI at EPIC LAB, Electrical Engineering and Computer science, University of Tennessee Knoxville (UTK).
+
+I am also a 2nd year PhD student in Computer Engineering working with Dr. Sai Swaminathan.
 
 My reserach area lies in Human-AI Interaction, focusing on Intelligent Robot.
 
-I am currently a 2nd year PhD student in Computer Engineering at the University of Tennesse Knoxville.
-
 I earned my B.Sc. from Bangladesh University of Engineering and Technology (BUET) in Electrical and Electronic Engineering (EEE).
+
+I am actively looking for summer internship opportunites for 2025. If you know any of opportunity, fell free to reach out.
+
