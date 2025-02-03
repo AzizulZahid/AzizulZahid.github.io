@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: I am researcher in HCI and AI at EPIC LAB, EECS, UTK.
+# subtitle: I am researcher in HCI and AI at EPIC LAB, EECS, UTK.
 
 profile:
   align: right
@@ -27,9 +27,10 @@ announcements:
 #   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
 #   limit: 3 # leave blank to include all the blog posts
 ---
+I am researcher a in HCI and AI at EPIC LAB, EECS, UTK.
 
 My reserach area lies in Human-AI Interaction, focusing on Intelligent Robot.
 
-I am currently a 2nd year PhD in Computer Engineering at the University of Tennesse Knoxville.
+I am currently a 2nd year PhD student in Computer Engineering at the University of Tennesse Knoxville.
 
 I earned my B.Sc. from Bangladesh University of Engineering and Technology (BUET) in Electrical and Electronic Engineering (EEE).
