@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Started new semester. I am taking two courses (Computer vision & Robot opt., est. and cnt.). I will also be TA of COmputer system organization (ECE 356/358) course.
+Started new semester. I am taking two courses (Computer vision & Robot opt., est. and cnt.). I will also be TA of Computer system organization (ECE 356/358) course.
