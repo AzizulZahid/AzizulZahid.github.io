@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Submitted another paper on RadioGami system to IWMUT'25.
+Submitted another paper on RadioGami system to IMWUT'25.
