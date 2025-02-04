@@ -33,5 +33,5 @@ My reserach area lies in Human-AI Interaction, focusing on Intelligent Robot. I 
 
 I earned my B.Sc. from Bangladesh University of Engineering and Technology (BUET) majoring Electrical and Electronic Engineering (EEE).
 
-📢📢📢 I am actively looking for <i style="color: orange;"><b>summer internship opportunities for 2025</b></i>. If you know any of opportunities, feel free to reach out to me.
+📢 I am actively looking for <i style="color: orange;"><b>summer internship opportunities for 2025</b></i>. If you know any of opportunities, feel free to reach out to me.
 
