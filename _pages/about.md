@@ -26,6 +26,7 @@ announcements:
 #   enabled: true
 #   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
 #   limit: 3 # leave blank to include all the blog posts
+
 ---
 I am a researcher in HCI and AI at EPIC LAB, Electrical Engineering and Computer science, University of Tennessee Knoxville (UTK).
 
@@ -35,5 +36,5 @@ My reserach area lies in Human-AI Interaction, focusing on Intelligent Robot.
 
 I earned my B.Sc. from Bangladesh University of Engineering and Technology (BUET) in Electrical and Electronic Engineering (EEE).
 
-I am actively looking for summer internship opportunites for 2025. If you know any of opportunity, fell free to reach out.
+I am actively looking for summer internship opportunites for 2025. If you know any of opportunities, fell free to reach out to me.
 
