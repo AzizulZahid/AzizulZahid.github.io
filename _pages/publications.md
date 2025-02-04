@@ -9,7 +9,6 @@ nav_order: 2
 ---
 Publications by categories in reverse chronological order. More on [google scholar](https://scholar.google.com/citations?user=nTY1Y-AAAAAJ&hl=en).
 
----
 
 <!-- _pages/publications.md -->
 
