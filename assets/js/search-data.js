@@ -45,8 +45,8 @@ ninja.data = [{
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
         
       },
-    },{id: "news-our-first-paper-on-neurocamtag-got-published-in-iwmut-24-sparkles",
-          title: 'Our first paper on NeurocamTag got published in IWMUT’24. :sparkles:',
+    },{id: "news-our-first-paper-on-neurocamtag-got-published-in-imwut-24-sparkles",
+          title: 'Our first paper on NeurocamTag got published in IMWUT’24. :sparkles:',
           description: "",
           section: "News",},{id: "news-passed-the-qualifying-exam",
           title: 'Passed the Qualifying exam.',
@@ -57,8 +57,8 @@ ninja.data = [{
           section: "News",},{id: "news-started-new-semester-i-am-taking-two-courses-computer-vision-ece-574-and-robot-opt-est-amp-amp-cont-ece-599-i-will-also-be-ta-of-computer-system-organization-ece-356-358-course",
           title: 'Started new semester. I am taking two courses (Computer vision (ECE 574) and...',
           description: "",
-          section: "News",},{id: "news-submitted-another-paper-on-radiogami-system-to-iwmut-25",
-          title: 'Submitted another paper on RadioGami system to IWMUT’25.',
+          section: "News",},{id: "news-submitted-another-paper-on-radiogami-system-to-imwut-25",
+          title: 'Submitted another paper on RadioGami system to IMWUT’25.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
