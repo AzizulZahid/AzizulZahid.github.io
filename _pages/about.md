@@ -28,7 +28,7 @@ announcements:
 #   limit: 3 # leave blank to include all the blog posts
 
 ---
-I am a researcher in HCI and AI at EPIC LAB, Electrical Engineering and Computer science (EECS), University of Tennessee Knoxville (UTK).
+<!-- I am a researcher in HCI and AI at EPIC LAB, Electrical Engineering and Computer science (EECS), University of Tennessee Knoxville (UTK). -->
 
 I am also a 2nd year PhD student in Computer Engineering working with Dr. Sai Swaminathan.
 
