@@ -29,7 +29,7 @@ I am a researcher in HCI and AI at EPIC LAB, Electrical Engineering and Computer
 
 I am also a 2nd year PhD student in Computer Engineering working with Dr. Sai Swaminathan.
 
-My reserach area lies in Human-AI Interaction, focusing on Intelligent Robot.
+My reserach area lies in Human-AI Interaction, focusing on Intelligent Robot. I have substantial experience on <i style="color: orange;">end-to-end intelligent robot prototyping with focusing Reinforcement Learning (RL)</i>.
 
 I earned my B.Sc. from Bangladesh University of Engineering and Technology (BUET) in Electrical and Electronic Engineering (EEE).
 
