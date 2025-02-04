@@ -25,13 +25,13 @@ announcements:
 #   limit: 3 # leave blank to include all the blog posts
 
 ---
-I am a researcher in HCI and AI at EPIC LAB, Electrical Engineering and Computer science (EECS), University of Tennessee Knoxville (UTK).
+I am a researcher in Human Computer Interaction (HCI) and AI at EPIC Lab, Electrical Engineering and Computer science (EECS), University of Tennessee Knoxville (UTK).
 
 I am also a 2nd year PhD student in Computer Engineering working with Dr. Sai Swaminathan.
 
 My reserach area lies in Human-AI Interaction, focusing on Intelligent Robot. I have substantial experience on <i style="color: orange;">end-to-end intelligent robots prototyping with utilizing Reinforcement Learning (RL) algorithms</i>.
 
-I earned my B.Sc. from Bangladesh University of Engineering and Technology (BUET) in Electrical and Electronic Engineering (EEE).
+I earned my B.Sc. from Bangladesh University of Engineering and Technology (BUET) majoring Electrical and Electronic Engineering (EEE).
 
-📢 I am actively looking for <i style="color: orange;"><b>summer internship opportunites for 2025</b></i>. If you know any of opportunities, fell free to reach out to me.
+📢 I am actively looking for <i style="color: orange;"><b>summer internship opportunites for 2025</b></i>. If you know any of opportunities, feel free to reach out to me.
 
