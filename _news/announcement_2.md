@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Submitted my first phd paper on <i style="color: orange;"><b>Human in the loop RL for wheelchair users</b></i> as a lead author to CHASE'25.
+Submitted my first phd paper on <i style="color: orange;"><b>Human in the loop RL for smart wheelchair</b></i> as a lead author to CHASE'25.
