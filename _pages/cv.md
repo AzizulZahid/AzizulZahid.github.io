@@ -1,17 +1,18 @@
-<!-- ---
-layout: cv
+---
+# layout: cv
+layout: redirect
 # permalink: /assets/pdf/CV_AzizulZahid.pdf
-permalink: /cv/
+# permalink: /cv/
 title: cv
-newtab: true
+# newtab: true
 nav: true
 nav_order: 5
-redirect_to: /assets/pdf/CV_AzizulZahid.pdf
+# redirect_to: /assets/pdf/CV_AzizulZahid.pdf
 # cv_pdf: CV_AzizulZahid.pdf # you can also use external links here
 # description:
 # toc:
 #   sidebar: left
---- -->
+---
 
 <!-- ---
 layout: redirect
@@ -22,11 +23,3 @@ nav: true
 nav_order: 5
 
 --- -->
-
----
-layout: redirect
-title: CV
-nav: true
-nav_order: 5
-
----

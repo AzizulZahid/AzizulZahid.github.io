@@ -1,0 +1,20 @@
+---
+---
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ page.title }}</title>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            var pdfUrl = "{% if site.baseurl %}{{ site.baseurl }}{% endif %}/assets/pdf/CV_AzizulZahid.pdf";
+            window.open(pdfUrl, '_blank');
+            window.location.href = "{% if site.baseurl %}{{ site.baseurl }}{% endif %}/";
+        });
+    </script>
+</head>
+<body>
+    <p>Redirecting to CV... If you are not redirected automatically, 
+        <a href="{% if site.baseurl %}{{ site.baseurl }}{% endif %}/assets/pdf/CV_AzizulZahid.pdf" target="_blank">click here</a>
+    </p>
+</body>
+</html>
