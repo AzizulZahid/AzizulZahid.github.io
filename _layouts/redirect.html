@@ -1,10 +1,15 @@
+---
+---
 <!DOCTYPE html>
 <html>
 <head>
-<meta http-equiv="refresh" content="0; url={{ page.redirect | relative_url }}">
-<script>window.location.href = "{{ page.redirect | relative_url }}"</script>
+    <meta http-equiv="refresh" content="0; url={{ '/assets/pdf/CV_AzizulZahid.pdf' | relative_url }}">
+    <script>
+        window.open("{{ '/assets/pdf/CV_AzizulZahid.pdf' | relative_url }}", '_blank');
+        window.location.href = "{{ '/' | relative_url }}";
+    </script>
 </head>
 <body>
-If you are not redirected automatically, <a href="{{ page.redirect | relative_url }}">click here</a>.
+    If you are not redirected automatically, <a href="{{ '/assets/pdf/CV_AzizulZahid.pdf' | relative_url }}" target="_blank">click here</a>.
 </body>
 </html>
