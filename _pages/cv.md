@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: cv
 # permalink: /assets/pdf/CV_AzizulZahid.pdf
 permalink: /cv/
@@ -11,4 +11,15 @@ redirect_to: /assets/pdf/CV_AzizulZahid.pdf
 # description:
 # toc:
 #   sidebar: left
+--- -->
+
 ---
+layout: redirect
+permalink: /cv/
+redirect: /assets/pdf/CV_AzizulZahid.pdf
+title: CV
+nav: true
+nav_order: 5
+
+---
+
