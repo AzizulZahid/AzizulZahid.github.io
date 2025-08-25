@@ -2,12 +2,13 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A growing collection of my research projects.
+description: A growing collection of my research projects. 
 nav: true
 nav_order: 3
 display_categories: [Ongoing, Past]
 horizontal: false
 ---
+A Summary of my ongoing research projects can be found <a href="https://docs.google.com/presentation/d/1ZSaauig5U8kpCF2F7DyaW2DdXK4hR1j-pjbOwmfBmBk/edit?usp=sharing">here<i class="fas fa-external-link-alt" style="font-size: 0.8em;"></i></a>.
 
 <!-- pages/projects.md -->
 <div class="projects">
