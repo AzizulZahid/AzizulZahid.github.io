@@ -25,7 +25,7 @@ announcements:
 #   limit: 3 # leave blank to include all the blog posts
 
 ---
-I am a researcher in Human Computer Interaction (HCI) and AI at <p><i class="fas fa-file-alt"></i> <a href="https://epic.eecs.utk.edu/" target="_blank">EPIC Lab</a></p>, Electrical Engineering and Computer science (EECS), University of Tennessee Knoxville (UTK).
+I am a researcher in Human Computer Interaction (HCI) and AI at <a href="https://epic.eecs.utk.edu/" target="_blank">EPIC Lab</a>, Electrical Engineering and Computer science (EECS), University of Tennessee Knoxville (UTK).
 
 I am a third-year PhD student in Computer Engineering working with Dr. Sai Swaminathan. I also received my <b>Master’s degree in Computer Engineering</b> from UTK in Summer 2025.
 
