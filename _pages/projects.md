@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: Current ongoing and past projects.
+description: A collections of my research world.
 nav: true
 nav_order: 3
 display_categories: [Ongoing, Past]
