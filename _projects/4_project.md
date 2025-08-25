@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: PulseRide
+description: A smart wheelchair robot
 img:
-importance: 3
-category: fun
+importance: 1
+category: Past
 ---
 
 Every project has a beautiful feature showcase page.

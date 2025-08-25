@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: Pagusuas AI
+description: An smart workflow management system
 img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 3
-category: work
+category: Ongoing
 ---
 
 Every project has a beautiful feature showcase page.
