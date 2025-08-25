@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Pagusuas AI
-description: An smart workflow management system
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+description: A smart workflow management system
+img: assets/img/proj_3.png
+redirect: https://pegasus.isi.edu/ai/
 importance: 3
 category: Ongoing
 ---
