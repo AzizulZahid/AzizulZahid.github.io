@@ -79,24 +79,24 @@ ninja.data = [{
           section: "News",},{id: "news-received-my-m-sc-in-computer-engineering",
           title: 'Received my M.Sc. in Computer Engineering.',
           description: "",
-          section: "News",},{id: "projects-skill-coaching",
-          title: 'Skill Coaching',
-          description: "An AI task assistant for furniture assembly.",
+          section: "News",},{id: "projects-skill-coaching-1",
+          title: 'Skill Coaching-1',
+          description: "An AI task assistant for furniture assembly",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-skill-coaching-2",
+          title: 'Skill Coaching-2',
+          description: "An on-device AI task assistant for furniture assembly",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-pagusuas-ai",
+          title: 'Pagusuas AI',
+          description: "An smart workflow management system",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-pulseride",
+          title: 'PulseRide',
+          description: "A smart wheelchair robot",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-project-5",
