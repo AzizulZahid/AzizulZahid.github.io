@@ -91,7 +91,7 @@ ninja.data = [{
               window.location.href = "/projects/2_project/";
             },},{id: "projects-pagusuas-ai",
           title: 'Pagusuas AI',
-          description: "An smart workflow management system",
+          description: "A smart workflow management system",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-pulseride",
