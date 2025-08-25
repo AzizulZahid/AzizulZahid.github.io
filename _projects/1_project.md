@@ -2,9 +2,9 @@
 layout: page
 title: project 1
 description: with background image
-img: assets/img/12.jpg
+img: assets/img/proj_1.png
 importance: 1
-category: work
+category: Ongoing
 related_publications: true
 ---
 
