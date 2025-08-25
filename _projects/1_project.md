@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Skill Coaching
+description: An AI task assistant for furniture assembly.
 img: assets/img/proj_1.png
 importance: 1
 category: Ongoing

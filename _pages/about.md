@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 # subtitle: I am researcher in HCI and AI at EPIC LAB, EECS, UTK.
 

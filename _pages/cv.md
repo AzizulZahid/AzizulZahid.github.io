@@ -3,7 +3,7 @@ layout: cv
 # layout: redirect
 permalink: /assets/pdf/Azizul_Zahid_CV.pdf
 # permalink: /cv/
-title: cv
+title: CV
 # newtab: true
 nav: true
 nav_order: 5
