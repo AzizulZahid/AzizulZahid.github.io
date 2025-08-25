@@ -2,7 +2,7 @@
 layout: page
 title: PulseRide
 description: A smart wheelchair robot
-img:
+img: assets/img/proj_4.png
 importance: 1
 category: Past
 ---
