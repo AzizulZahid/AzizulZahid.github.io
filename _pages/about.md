@@ -29,7 +29,7 @@ I am a researcher in Human Computer Interaction (HCI) and AI at <a href="https:/
 
 I am a third-year PhD student in Computer Engineering working with Dr. Sai Swaminathan. I also received my <b>Master’s degree in Computer Engineering</b> from UTK in Summer 2025.
 
-My reserach area lies in on device LLM inference for task specific Human-AI Interaction, focusing on Intelligent guidance systems. I have substantial experience on <i style="color: orange;">implementation of <b>LLM on resource constraint devices</b> to build intelligent werable and tiny systems. Additionally, I have built an end-to-end intelligent robots prototyping with utilizing Reinforcement Learning (RL) algorithms</i>.
+My reserach area lies in on device LLM inference for task specific Human-AI Interaction, focusing on Intelligent guidance systems. I have substantial experience on implementation of <b>LLM on resource constraint devices</b> to build intelligent werable and tiny systems. Additionally, I have built an end-to-end intelligent robots prototyping with utilizing Reinforcement Learning (RL) algorithms.
 
 I earned my B.Sc. from Bangladesh University of Engineering and Technology (BUET) majoring Electrical and Electronic Engineering (EEE).
 
