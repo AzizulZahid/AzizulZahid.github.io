@@ -22,13 +22,13 @@ To give your project a background in the portfolio page, just add the img tag to
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
-    <a href="assets/pdf/CHASE'25_Pulseride.pdf" target="_blank">
+    <a href="assets/pdf/CHASE_25_Pulseride.pdf" target="_blank">
       {% include figure.liquid loading="eager" path="assets/img/AZ_logo.jpg" title="PulseRide PDF" class="img-fluid rounded z-depth-1" %}
     </a>
   </div>
 
   <div class="col-sm mt-3 mt-md-0">
-    <a href="assets/pdf/CHASE'25_Pulseride.pptx">
+    <a href="assets/pdf/CHASE_25_Pulseride.pptx">
       {% include figure.liquid loading="eager" path="assets/img/image.png" title="PulseRide PPTX" class="img-fluid rounded z-depth-1" %}
     </a>
   </div>
@@ -38,7 +38,7 @@ To give your project a background in the portfolio page, just add the img tag to
   </div>
 </div>
 
-<div class="row">
+<!-- <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/pdf/CHASE'25_Pulseride.pdf" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -48,7 +48,7 @@ To give your project a background in the portfolio page, just add the img tag to
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
+</div> -->
 <div class="caption">
     Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>
