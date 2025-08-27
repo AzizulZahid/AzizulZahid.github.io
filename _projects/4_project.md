@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PulseRide
-description: A smart wheelchair robot
+description: A Robotic Wheelchair for Personalized Exertion Control with Human-in-the-Loop Reinforcement Learning
 img: assets/img/proj_4.png
 importance: 1
 category: Past
