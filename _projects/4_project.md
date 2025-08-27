@@ -17,6 +17,6 @@ category: Past
 </div>
 
 <div class="caption">
-    The slides from my recent presentation in IEEE/ACM CHASE'25 conference.
+    Slides from my recent presentation in IEEE/ACM CHASE'25 conference.
 </div>
 
