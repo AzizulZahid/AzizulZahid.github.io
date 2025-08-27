@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
+title: NeuroCamTags
+description: Long-Range, Battery-free, Wireless Sensing with Neuromorphic
 img:
-importance: 4
+importance: 3
 category: fun
 ---
 
