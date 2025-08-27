@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+title: RadioGami
+description: Batteryless, Long-range Wireless Paper Sensors Using Tunnel Diodes
+img: assets/img/radiogami_proj.png
 importance: 3
-category: fun
+category: Past
 ---
 
 Every project has a beautiful feature showcase page.
