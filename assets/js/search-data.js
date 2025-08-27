@@ -96,7 +96,7 @@ ninja.data = [{
               window.location.href = "/projects/3_project/";
             },},{id: "projects-pulseride",
           title: 'PulseRide',
-          description: "A smart wheelchair robot",
+          description: "A Robotic Wheelchair for Personalized Exertion Control with Human-in-the-Loop Reinforcement Learning",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-radiogami",
