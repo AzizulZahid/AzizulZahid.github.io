@@ -79,7 +79,12 @@ ninja.data = [{
           section: "News",},{id: "news-received-my-m-sc-in-computer-engineering",
           title: 'Received my M.Sc. in Computer Engineering.',
           description: "",
-          section: "News",},{id: "projects-skill-coaching-1",
+          section: "News",},{id: "projects-interactive-machine-learning-iml",
+          title: 'Interactive Machine Learning (IML)',
+          description: "An LLM based user-centric multimodal interaction pipeline to do rapid onsite finetuning with minimal cognitive load",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/10_project/";
+            },},{id: "projects-skill-coaching-1",
           title: 'Skill Coaching-1',
           description: "An AI task assistant for furniture assembly",
           section: "Projects",handler: () => {
