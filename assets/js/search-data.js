@@ -28,7 +28,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/assets/pdf/Azizul_Zahid_CV.pdf";
+            window.location.href = "/assets/pdf/CV_Azizul_Zahid.pdf";
           },
         },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
       
