@@ -1,7 +1,7 @@
 ---
 layout: cv
 # layout: redirect
-permalink: /assets/pdf/Azizul_Zahid_CV.pdf
+permalink: /assets/pdf/CV_Azizul_Zahid.pdf
 # permalink: /cv/
 title: CV
 # newtab: true
