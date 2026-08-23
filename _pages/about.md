@@ -27,11 +27,11 @@ announcements:
 ---
 I am a researcher in Human Computer Interaction (HCI) and AI at <a href="https://epic.eecs.utk.edu/" target="_blank">EPIC Lab</a>, Electrical Engineering and Computer science (EECS), University of Tennessee Knoxville (UTK).
 
-I am a third-year PhD student in Computer Engineering working with Dr. Sai Swaminathan. I also received my <b>Master’s degree in Computer Engineering</b> from UTK in Summer 2025.
+I am a fourth-year PhD student in Computer Engineering working with Dr. Sai Swaminathan. I also received my <b>Master’s degree in Computer Engineering</b> from UTK in Summer 2025.
 
 My reserach area lies in on device LLM inference for task specific Human-AI Interaction, focusing on Intelligent guidance systems. I have substantial experience on implementation of <b>LLM on resource constraint devices</b> to build intelligent werable and tiny systems. Additionally, I have built an end-to-end intelligent robots prototyping with utilizing Reinforcement Learning (RL) algorithms.
 
 I earned my B.Sc. from Bangladesh University of Engineering and Technology (BUET) majoring Electrical and Electronic Engineering (EEE).
 
-📢 I am actively looking for <i style="color: orange;"><b>summer internship opportunities for 2026</b></i>. If you know any of opportunities, feel free to reach out to me.
+📢 I am actively looking for <i style="color: orange;"><b>internship opportunities</b></i>. If you know any of opportunities, feel free to reach out to me.
 
